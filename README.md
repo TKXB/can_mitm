@@ -2,8 +2,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This project is a komodo duo can device script that is used to does the MITM attack of CAN bus.
-
-
+![mitm](mitm.png)
 <!-- GETTING STARTED -->
 ## Getting Started
 
